@@ -1,0 +1,9 @@
+langgraph>=0.0.19
+langchain>=0.0.345
+langchain-openai>=0.0.3
+langchain-core>=0.1.18
+langchain-text-splitters>=0.0.1
+langchain-community>=0.0.16
+langchain-chroma>=0.0.1
+chromadb>=0.4.22
+uuid>=1.30
